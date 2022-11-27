@@ -6,7 +6,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-- 👋 Hello Beautiful Human! I’m @jennjunod
+# ✨Hello Beautiful Human!✨
+
   - 💻 I'm working on
     - 🥑 #DevRel #developcado 
     - 🧐 LearningLive with [TeachJennTech](https://linktr.ee/teachjenntech) 
@@ -20,3 +21,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![@jennjunod's Holopin board](https://holopin.me/jennjunod)](https://holopin.io/@jennjunod)
+
+
