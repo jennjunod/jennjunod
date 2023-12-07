@@ -12,7 +12,7 @@ TLDR:
   - 💻 I'm working on
     - 🥑 DevRel at [Aiven 🦀](https://aiven.io/) 
     - 🧐 Learning Live with [Teach Jenn Tech](https://www.twitch.tv/jennjunod) 
-      - Focus on PostgreSQL & TypeScript
+      - Focus on Open Source Data Infrastructure
     - 🎧 Host of [Sh!t You Don't Want to Talk About](https://linktr.ee/shit2talkabout)
   - 🎙️ I talk about:
     - databases mostly postgresql
