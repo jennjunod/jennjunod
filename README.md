@@ -14,13 +14,15 @@ TLDR:
     - 🧐 Learning Live with [Teach Jenn Tech](https://www.twitch.tv/jennjunod) 
     - 🎧 Host of [Sh!t2TalkAbout](https://linktr.ee/shit2talkabout)
   - 🎙️ I talk about:
-    - databases
+    - JavaScript
+    - Databases
     - AI
-    - python 
-    - mentalhealth & neurodiversity
+    - Python 
+    - mental health & neurodiversity
   - 🧠 I am wildly 
     - neurdivergent w/ adhd | bipolar2 | ptsd | dyslexia | anxiety | depression
 - 📫 How to reach me:
+  - [🦋 Blusky](https://bsky.app/profile/jennjunod.bsky.social)
   - [Twitter](https://twitter.com/JennJunod)
   - [LinkedIn](https://www.linkedin.com/in/jennjunod/)
   - [Twitch](https://www.twitch.tv/jennjunod) 
