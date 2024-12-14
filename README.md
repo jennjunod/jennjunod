@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 TLDR:
   - 💻 I'm working on
-    - 🥑 DevRel 
     - 🧐 Learning Live with [Teach Jenn Tech](https://www.twitch.tv/jennjunod) 
     - 🎧 Host of [Sh!t2TalkAbout](https://linktr.ee/shit2talkabout)
+    - 🖥️ Contributing to [Autoshow](https://github.com/ajcwebdev/autoshow)
   - 🎙️ I talk about:
     - JavaScript
     - Databases
